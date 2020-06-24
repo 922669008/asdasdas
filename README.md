@@ -1,4 +1,5 @@
 # PC2-2020-1
+crea_arreglo
 matriz = []
     for i range(numero_filas):
        matriz.append([])
